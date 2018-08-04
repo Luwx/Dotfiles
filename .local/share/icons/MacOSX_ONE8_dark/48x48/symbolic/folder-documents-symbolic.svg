@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   style="enable-background:new 0 0 22 22;"
+   viewBox="0 0 22 22"
+   y="0px"
+   x="0px"
+   sodipodi:docname="folder-documents-symbolic.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   id="svg7384"
+   version="1.1"><sodipodi:namedview
+   showguides="true"
+   showgrid="false"
+   showborder="true"
+   pagecolor="#616161"
+   objecttolerance="10"
+   inkscape:zoom="16"
+   inkscape:window-y="34"
+   inkscape:window-x="54"
+   inkscape:window-width="1310"
+   inkscape:window-maximized="0"
+   inkscape:window-height="690"
+   inkscape:snap-to-guides="true"
+   inkscape:snap-nodes="true"
+   inkscape:snap-grids="true"
+   inkscape:snap-global="true"
+   inkscape:snap-bbox="true"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="1"
+   inkscape:object-nodes="true"
+   inkscape:guide-bbox="true"
+   inkscape:cy="9.8554227"
+   inkscape:cx="11.932162"
+   inkscape:current-layer="layer13"
+   inkscape:bbox-paths="false"
+   id="namedview88"
+   guidetolerance="10"
+   gridtolerance="10"
+   borderopacity="1"
+   bordercolor="#666666">
+	
+		<inkscape:grid
+   originy="0"
+   originx="0"
+   visible="true"
+   type="xygrid"
+   spacingy="1"
+   spacingx="1"
+   snapvisiblegridlinesonly="true"
+   id="grid4866"
+   enabled="true"
+   empspacing="2">
+		</inkscape:grid>
+</sodipodi:namedview><metadata
+   id="metadata21"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Gnome Symbolic Icon Theme</dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs19" />
+<style
+   id="style2"
+   type="text/css">
+	.st0{opacity:0.827;fill:#00000F;enable-background:new    ;}
+	.st1{opacity:0.759;fill:#00000F;enable-background:new    ;}
+	.st2{opacity:0.15;enable-background:new    ;}
+	.st3{opacity:0.4;enable-background:new    ;}
+</style>
+
+<title
+   id="title9167">Gnome Symbolic Icon Theme</title>
+<g
+   inkscape:label="status"
+   inkscape:groupmode="layer"
+   transform="translate(-442,-156)"
+   id="layer9">
+</g>
+<g
+   inkscape:label="devices"
+   inkscape:groupmode="layer"
+   transform="translate(-442,-156)"
+   id="layer10">
+</g>
+<g
+   inkscape:label="apps"
+   inkscape:groupmode="layer"
+   transform="translate(-442,-156)"
+   id="layer11">
+</g>
+<g
+   inkscape:label="actions"
+   inkscape:groupmode="layer"
+   transform="translate(-442,-156)"
+   id="layer12">
+</g>
+<g
+   inkscape:label="places"
+   inkscape:groupmode="layer"
+   transform="translate(-442,-156)"
+   id="layer13">
+	<path
+   style="opacity:0.7;fill:#fffff0;fill-opacity:1"
+   d="M447,161v3v11h6h5v-8v-0.9l-5.1-5.1H452H447z M448,162h3   c0.6,0,1,0.5,1,1.2v3.8h4c0.5,0,1,0.6,1,1.1v5.9h-4h-5v-9.9V162z M453,162.6l3.4,3.4H453V162.6z"
+   class="st0"
+   inkscape:connector-curvature="0"
+   id="rect4156" />
+	<path
+   style="opacity:0.6;fill:#fffff0;fill-opacity:1"
+   d="M452,158v3h0.9   l0.1,0.1V159h3c0.6,0,1,0.5,1,1.2v3.8h4c0.5,0,1,0.6,1,1.1v5.9h-4v1h5v-8v-0.9l-5.1-5.1H457H452z M458,159.6l3.4,3.4H458V159.6z"
+   class="st1"
+   sodipodi:nodetypes="ccccccccccccccccccccccc"
+   inkscape:connector-curvature="0"
+   id="path4181" />
+	<path
+   style="fill:#fffff0;fill-opacity:1;opacity:0.15"
+   d="M448,162v12h9v-7h-5v-5H448z"
+   class="st2"
+   inkscape:connector-curvature="0"
+   id="path4186" />
+	<path
+   style="opacity:0.3;fill:#fffff0;fill-opacity:1"
+   d="M453,159v2.4l5,5v0.6v4h4v-5.9c0-0.5-0.5-1.1-1-1.1h-4v-3.8   c0-0.7-0.4-1.2-1-1.2H453z"
+   class="st3"
+   inkscape:connector-curvature="0"
+   id="path4191" />
+</g>
+<g
+   inkscape:label="mimetypes"
+   inkscape:groupmode="layer"
+   transform="translate(-442,-156)"
+   id="layer14">
+</g>
+<g
+   inkscape:label="emblems"
+   inkscape:groupmode="layer"
+   transform="translate(-442,-156)"
+   id="layer15">
+</g>
+</svg>

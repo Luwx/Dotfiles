@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.0" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="80">
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs5">
+  <linearGradient id="linearGradient3833">
+   <stop id="stop3835" stop-color="#fff" stop-opacity="0" offset="0"/>
+   <stop id="stop3837" stop-color="#fff" stop-opacity=".39216" offset=".5"/>
+   <stop id="stop3839" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4229">
+   <stop id="stop4231" stop-opacity="0" offset="0"/>
+   <stop id="stop4237" stop-opacity=".39216" offset=".5"/>
+   <stop id="stop4233" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4370" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1.5 0 -156.18)" xlink:href="#linearGradient4346" x1="100" y2="311.36" x2="105" y1="311.36"/>
+  <linearGradient id="linearGradient4346">
+   <stop id="stop4348" stop-color="#fff" stop-opacity="0" offset="0"/>
+   <stop id="stop4354" stop-color="#fff" stop-opacity=".27451" offset=".5"/>
+   <stop id="stop4350" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4111" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4229" x1="100" y2="308.86" x2="105" y1="308.86"/>
+  <linearGradient id="linearGradient4362" gradientUnits="userSpaceOnUse" gradientTransform="matrix(30 0 0 3.4 -130.69 28)" xlink:href="#linearGradient4346" x1="5" y1="7.5" y2="7.5" x2="10"/>
+  <linearGradient id="linearGradient3831" gradientUnits="userSpaceOnUse" gradientTransform="translate(0 1)" xlink:href="#linearGradient3833" x1="100" y1="308.86" y2="308.86" x2="105"/>
+  <linearGradient id="linearGradient3843" gradientUnits="userSpaceOnUse" gradientTransform="translate(0 .99999)" xlink:href="#linearGradient3833" x1="100" y1="308.86" y2="308.86" x2="105"/>
+ </defs>
+ <rect id="hint-stretch-borders" ry="4" rx="0" height="4" y="14.921" width="4" fill="#00f" x="18.968"/>
+ <rect id="hint-preferred-icon-size" ry="16" rx="0" height="16" y="21.128" width="16" fill="#00f" x="8"/>
+ <rect id="background-vertical-top" opacity="0" height="13" y="-66.688" width="16" x="-349.57"/>
+ <rect id="background-vertical-topleft" height="13" opacity="0" y="-66.688" width="5" x="-355.57"/>
+ <rect id="background-vertical-topright" opacity="0" height="13" y="-66.688" width="5" x="-332.57"/>
+ <g id="top" transform="matrix(30 0 0 1 -2980.7 -267.36)">
+  <rect id="rect4166" height="3" ry="0" y="309.36" width="5" fill="url(#linearGradient4370)" x="100"/>
+  <rect id="rect4168" ry="0" opacity=".58607" height="1" y="309.36" width="5" fill="none" x="100"/>
+  <rect id="rect4172" ry="0" height="1" y="308.36" width="5" fill="url(#linearGradient4111)" x="100"/>
+  <rect id="rect3841" height="1" ry="0" y="309.36" width="5" fill="url(#linearGradient3843)" x="100"/>
+ </g>
+ <rect id="center" height="17" y="45" width="150" fill="url(#linearGradient4362)" x="19.306"/>
+ <g id="bottom" transform="matrix(30 0 0 -1 -2980.7 374.36)">
+  <rect id="rect4210" ry="0" height="3" y="309.36" width="5" fill="url(#linearGradient4370)" x="100"/>
+  <rect id="rect4212" height="1" opacity=".58607" ry="0" y="309.36" width="5" fill="none" x="100"/>
+  <rect id="rect4216" height="1" ry="0" y="308.36" width="5" fill="url(#linearGradient4111)" x="100"/>
+  <rect id="rect3827" ry="0" height="1" y="309.36" width="5" fill="url(#linearGradient3831)" x="100"/>
+ </g>
+ <rect id="hint-bottom-margin" height="3" y="63" width="3" fill="#00f" x="92.806"/>
+ <rect id="hint-top-margin" height="3" y="41" width="3" fill="#00f" x="92.806"/>
+ <rect id="hint-right-margin" height="3" y="52" width="3" fill="#00f" x="166.31"/>
+ <rect id="hint-left-margin" height="3" y="52" width="3" fill="#00f" x="19.306"/>
+</svg>

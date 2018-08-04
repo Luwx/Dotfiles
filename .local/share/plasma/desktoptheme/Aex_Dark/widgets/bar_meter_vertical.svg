@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2318"
+   version="1.0"
+   height="21"
+   width="39"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="bar_meter_horizontal.svg"
+   viewBox="0 0 39 21">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1443"
+     inkscape:window-height="879"
+     inkscape:document-units="px"
+     id="namedview51"
+     showgrid="false"
+     inkscape:zoom="9.5797565"
+     inkscape:cx="-21.164288"
+     inkscape:cy="17.78055"
+     inkscape:current-layer="svg2318"
+     inkscape:window-x="245"
+     inkscape:window-y="205"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5" />
+  <defs
+     id="defs2320">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  </defs>
+  <metadata
+     id="metadata2323">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="bar-inactive-center"
+     d="m 27,9 h 3 v 3 h -3 z"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-Highlight"
+     style="fill:#1c1c1c;fill-opacity:0.19130434" />
+  <g
+     id="bar-inactive-top"
+     transform="translate(-89)"
+     style="fill:#1c1c1c;fill-opacity:0.19130434">
+    <path
+       id="path3399"
+       d="m 119,5 h -3 v 3 h 3 z"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       style="fill:#1c1c1c;fill-opacity:0.19130434" />
+  </g>
+  <g
+     id="bar-inactive-topright"
+     transform="translate(-89)"
+     style="fill:#1c1c1c;fill-opacity:0.19130434">
+    <g
+       id="g3403"
+       style="fill:#1c1c1c;fill-opacity:0.19130434">
+      <path
+         id="path3405"
+         d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-Highlight"
+         style="fill:#1c1c1c;fill-opacity:0.19130434" />
+    </g>
+  </g>
+  <g
+     id="bar-inactive-bottomright"
+     transform="matrix(1,0,0,-1,-89,21)"
+     style="fill:#1c1c1c;fill-opacity:0.19130434">
+    <g
+       id="g3409"
+       style="fill:#1c1c1c;fill-opacity:0.19130434">
+      <path
+         id="path3411"
+         d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-Highlight"
+         style="fill:#1c1c1c;fill-opacity:0.19130434" />
+    </g>
+  </g>
+  <g
+     id="bar-inactive-bottom"
+     transform="matrix(1,0,0,-1,-89,21)"
+     style="fill:#1c1c1c;fill-opacity:0.19130434">
+    <path
+       id="path3415"
+       d="m 119,5 h -3 v 3 h 3 z"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       style="fill:#1c1c1c;fill-opacity:0.19130434" />
+  </g>
+  <g
+     id="bar-inactive-topleft"
+     transform="matrix(-1,0,0,1,146,0)"
+     style="fill:#1c1c1c;fill-opacity:0.19130434">
+    <g
+       id="g3419"
+       style="fill:#1c1c1c;fill-opacity:0.19130434">
+      <path
+         id="path3421"
+         d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-Highlight"
+         style="fill:#1c1c1c;fill-opacity:0.19130434" />
+    </g>
+  </g>
+  <g
+     id="bar-inactive-bottomleft"
+     transform="rotate(180,73,10.5)"
+     style="fill:#1c1c1c;fill-opacity:0.19130434">
+    <g
+       id="g3425"
+       style="fill:#1c1c1c;fill-opacity:0.19130434">
+      <path
+         id="path3427"
+         d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-Highlight"
+         style="fill:#1c1c1c;fill-opacity:0.19130434" />
+    </g>
+  </g>
+  <g
+     id="bar-inactive-left"
+     transform="matrix(0,1,1,0,18,-107)"
+     style="fill:#1c1c1c;fill-opacity:0.19130434">
+    <path
+       id="path3431"
+       d="m 119,5 h -3 v 3 h 3 z"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       style="fill:#1c1c1c;fill-opacity:0.19130434" />
+  </g>
+  <g
+     id="bar-inactive-right"
+     transform="rotate(90,73,-34)"
+     style="fill:#1c1c1c;fill-opacity:0.19130434">
+    <path
+       id="path3435"
+       d="m 119,5 h -3 v 3 h 3 z"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       style="fill:#1c1c1c;fill-opacity:0.19130434" />
+  </g>
+  <path
+     style="fill:currentColor;fill-opacity:0.82352942"
+     class="ColorScheme-Text"
+     inkscape:connector-curvature="0"
+     d="m 9,9 h 3 v 3 H 9 Z"
+     id="bar-active-center" />
+  <g
+     style="fill:currentColor;fill-opacity:0.82352942"
+     transform="translate(-107)"
+     id="bar-active-top">
+    <path
+       style="fill:currentColor;fill-opacity:0.82352942"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       d="m 119,5 h -3 v 3 h 3 z"
+       id="path837" />
+  </g>
+  <g
+     style="fill:currentColor;fill-opacity:0.82352942"
+     transform="translate(-107)"
+     id="bar-active-topright">
+    <g
+       style="fill:currentColor;fill-opacity:0.82352942"
+       id="g843">
+      <path
+         style="fill:currentColor;fill-opacity:0.82352942"
+         class="ColorScheme-Text"
+         inkscape:connector-curvature="0"
+         d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
+         id="path841" />
+    </g>
+  </g>
+  <g
+     style="fill:currentColor;fill-opacity:0.82352942"
+     transform="matrix(1,0,0,-1,-107,21)"
+     id="bar-active-bottomright">
+    <g
+       style="fill:currentColor;fill-opacity:0.82352942"
+       id="g849">
+      <path
+         style="fill:currentColor;fill-opacity:0.82352942"
+         class="ColorScheme-Text"
+         inkscape:connector-curvature="0"
+         d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
+         id="path847" />
+    </g>
+  </g>
+  <g
+     style="fill:currentColor;fill-opacity:0.82352942"
+     transform="matrix(1,0,0,-1,-107,21)"
+     id="bar-active-bottom">
+    <path
+       style="fill:currentColor;fill-opacity:0.82352942"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       d="m 119,5 h -3 v 3 h 3 z"
+       id="path853" />
+  </g>
+  <g
+     style="fill:currentColor;fill-opacity:0.82352942"
+     transform="matrix(-1,0,0,1,128,0)"
+     id="bar-active-topleft">
+    <g
+       style="fill:currentColor;fill-opacity:0.82352942"
+       id="g859">
+      <path
+         style="fill:currentColor;fill-opacity:0.82352942"
+         class="ColorScheme-Text"
+         inkscape:connector-curvature="0"
+         d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
+         id="path857" />
+    </g>
+  </g>
+  <g
+     style="fill:currentColor;fill-opacity:0.82352942"
+     transform="rotate(180,64,10.5)"
+     id="bar-active-bottomleft">
+    <g
+       style="fill:currentColor;fill-opacity:0.82352942"
+       id="g865">
+      <path
+         style="fill:currentColor;fill-opacity:0.82352942"
+         class="ColorScheme-Text"
+         inkscape:connector-curvature="0"
+         d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
+         id="path863" />
+    </g>
+  </g>
+  <g
+     style="fill:currentColor;fill-opacity:0.82352942"
+     transform="matrix(0,1,1,0,0,-107)"
+     id="bar-active-left">
+    <path
+       style="fill:currentColor;fill-opacity:0.82352942"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       d="m 119,5 h -3 v 3 h 3 z"
+       id="path869" />
+  </g>
+  <g
+     style="fill:currentColor;fill-opacity:0.82352942"
+     transform="rotate(90,64,-43)"
+     id="bar-active-right">
+    <path
+       style="fill:currentColor;fill-opacity:0.82352942"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       d="m 119,5 h -3 v 3 h 3 z"
+       id="path873" />
+  </g>
+</svg>
