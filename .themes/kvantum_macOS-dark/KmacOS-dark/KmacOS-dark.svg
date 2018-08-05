@@ -16,13 +16,13 @@
    version="1.0"
    width="200mm">
   <sodipodi:namedview
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="g930"
      inkscape:window-maximized="1"
      inkscape:window-y="23"
      inkscape:window-x="0"
-     inkscape:cy="925.45552"
-     inkscape:cx="159.66809"
-     inkscape:zoom="8.0000002"
+     inkscape:cy="357.28427"
+     inkscape:cx="598.32371"
+     inkscape:zoom="5.6568544"
      showgrid="false"
      id="namedview967"
      inkscape:window-height="745"
@@ -6314,7 +6314,7 @@
          style="opacity:0.9;fill:#eff0f3;fill-opacity:1" />
       <rect
          id="tooltip-normal"
-         style="opacity:0.9;fill:#e41235;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+         style="opacity:0.9;fill:#eff0f3;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
          height="48"
          y="917"
          x="376.49997"

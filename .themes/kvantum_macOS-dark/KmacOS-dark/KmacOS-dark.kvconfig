@@ -1,6 +1,6 @@
 [%General]
-author=Takemikazuchi00r
-comment=mac inspired
+author=Victor Calles, Lucas Andrade
+comment=A dark theme similar to MacOS
 x11drag=all
 alt_mnemonic=true
 left_tabs=false
@@ -17,7 +17,7 @@ scroll_width=8
 scroll_arrows=true
 scroll_min_extent=50
 transient_scrollbar=true
-slider_width=4
+slider_width=5
 slider_handle_width=18
 slider_handle_length=18
 center_toolbar_handle=true
@@ -262,10 +262,10 @@ indicator.element=tree
 
 [HeaderSection]
 inherits=PanelButtonCommand
-frame.top=2
-frame.bottom=2
-frame.left=2
-frame.right=2
+frame.top=1
+frame.bottom=1
+frame.left=1
+frame.right=1
 
 [SizeGrip]
 indicator.element=resize-grip
@@ -289,8 +289,8 @@ frame.expansion=0
 inherits=PanelButtonCommand
 frame.element=slider
 interior.element=slider
-frame.top=3
-frame.bottom=3
+frame.top=2
+frame.bottom=2
 frame.left=3
 frame.right=3
 
