@@ -10,3 +10,9 @@ X-KDE-PluginInfo-Category=Plasma Theme
 X-KDE-PluginInfo-License=CC BY-NC-SA
 X-KDE-PluginInfo-EnabledByDefault=true
 X-Plasma-API=5.0
+
+[ContrastEffect]
+enabled=false
+contrast=1
+intensity=1
+saturation=1.6

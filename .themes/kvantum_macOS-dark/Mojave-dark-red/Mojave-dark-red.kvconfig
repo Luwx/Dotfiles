@@ -10,7 +10,6 @@ mirror_doc_tabs=false
 active_tab_overlap=10
 group_toolbar_buttons=true
 spread_progressbar=true
-spread_menuitems=true
 composite=true
 menu_shadow_depth=7
 tooltip_shadow_depth=6
@@ -24,7 +23,7 @@ slider_handle_length=18
 center_toolbar_handle=true
 check_size=16
 textless_progressbar=false
-progressbar_thickness=5
+progressbar_thickness=4
 menubar_mouse_tracking=true
 toolbutton_style=0
 double_click=false
@@ -82,15 +81,15 @@ light.color=#f6f6f6
 mid.light.color=#f5f5f5
 dark.color=#c8c8c8
 mid.color=#c6c8cc00
-highlight.color=#5294e2
-inactive.highlight.color=#5294e2
+highlight.color=#E45050
+inactive.highlight.color=#E45050
 text.color=#e5e5e5
 window.text.color=#ffffff
 button.text.color=#ffffff
 disabled.text.color=#999999
 tooltip.text.color=#303030
 highlight.text.color=#ffffff
-link.color=#4AAFF7
+link.color=#F74A4A
 link.visited.color=#452886
 progress.indicator.text.color=#f6f6f6
 
@@ -154,7 +153,7 @@ inherits=PanelButtonCommand
 frame=false
 interior=false
 text.normal.color=404040
-text.focus.color=#4AAFF7
+text.focus.color=#F74A4A
 text.bold=true
 
 [IndicatorSpinBox]
@@ -172,14 +171,14 @@ inherits=PanelButtonCommand
 frame=false
 interior.element=radio
 text.normal.color=404040
-text.focus.color=#4AAFF7
+text.focus.color=#F74A4A
 
 [CheckBox]
 inherits=PanelButtonCommand
 frame=false
 interior.element=checkbox
 text.normal.color=404040
-text.focus.color=#4AAFF7
+text.focus.color=#F74A4A
 
 [GenericFrame]
 inherits=PanelButtonCommand
@@ -215,7 +214,7 @@ indicator.size=10
 inherits=PanelButtonCommand
 text.normal.color=#f6f6f6
 text.press.color=#f14b4b
-text.focus.color=#4AAFF7
+text.focus.color=#F74A4A
 
 [Tab]
 inherits=PanelButtonCommand
@@ -333,7 +332,7 @@ text.margin.bottom=2
 text.margin.left=4
 text.margin.right=4
 text.normal.color=404040
-text.focus.color=#4AAFF7
+text.focus.color=#F74A4A
 text.press.color=#f6f6f6
 text.toggle.color=#f6f6f6
 frame.expansion=6
@@ -449,7 +448,7 @@ frame.left=1
 frame.right=1
 text.normal.color=404040
 text.press.color=404040
-text.focus.color=#4AAFF7
+text.focus.color=#F74A4A
 text.bold=true
 frame.expansion=0
 interior.x.patternsize=20

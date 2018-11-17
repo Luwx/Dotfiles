@@ -28,7 +28,7 @@ ForegroundInactive=175,176,179
 ForegroundLink=61,174,230
 ForegroundNegative=237,21,21
 ForegroundNeutral=201,206,59
-ForegroundNormal=239,240,241
+ForegroundNormal=246,253,255
 ForegroundPositive=17,209,22
 ForegroundVisited=61,174,230
 
@@ -56,7 +56,7 @@ ForegroundInactive=175,176,179
 ForegroundLink=61,174,230
 ForegroundNegative=237,21,21
 ForegroundNeutral=201,206,59
-ForegroundNormal=239,240,241
+ForegroundNormal=246,253,255
 ForegroundPositive=17,209,22
 ForegroundVisited=61,174,230
 
@@ -70,7 +70,7 @@ ForegroundInactive=175,176,179
 ForegroundLink=61,174,230
 ForegroundNegative=237,21,21
 ForegroundNeutral=201,206,59
-ForegroundNormal=239,240,241
+ForegroundNormal=246,253,255
 ForegroundPositive=17,209,22
 ForegroundVisited=61,174,230
 
@@ -84,7 +84,7 @@ ForegroundInactive=175,176,179
 ForegroundLink=61,174,230
 ForegroundNegative=237,21,21
 ForegroundNeutral=201,206,59
-ForegroundNormal=239,240,241
+ForegroundNormal=246,253,255
 ForegroundPositive=17,209,22
 ForegroundVisited=61,174,230
 
@@ -98,13 +98,13 @@ ForegroundInactive=175,176,179
 ForegroundLink=61,174,230
 ForegroundNegative=237,21,21
 ForegroundNeutral=201,206,59
-ForegroundNormal=239,240,241
+ForegroundNormal=246,253,255
 ForegroundPositive=17,209,22
 ForegroundVisited=61,174,230
 
 [General]
-ColorScheme=Plasma Next
-Name=Plasma Next
+ColorScheme=Breeze_Transparent
+Name=Breeze_Transparent
 shadeSortColumn=true
 
 [KDE]
